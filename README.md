@@ -1,0 +1,2 @@
+# MongoProject
+Educational MongoDB application
